@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0ea5a4" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+    <filter id="f" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="25" result="b" />
+      <feBlend in="SourceGraphic" in2="b" mode="normal" />
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)" />
+  <g fill="white" font-family="Inter, Roboto, Arial, sans-serif" font-weight="700" filter="url(#f)">
+    <text x="50%" y="46%" text-anchor="middle" font-size="40">Muhammad Izhan</text>
+  </g>
+  <g fill="white" font-family="Inter, Roboto, Arial, sans-serif" opacity="0.95">
+    <text x="50%" y="68%" text-anchor="middle" font-size="18">Full Stack Developer • Crafting clean, modern web experiences</text>
+  </g>
+</svg>
