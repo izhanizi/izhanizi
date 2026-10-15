@@ -39,7 +39,7 @@ I build user-friendly interfaces and reliable backends. I enjoy learning new too
 
 ## 🔗 Contact
 <p>
-  [![GitHub](https://img.shields.io/badge/GitHub-@izhanizi-181717?style=for-the-badge&logo=github)](https://github.com/izhanizi)
+ https://github.com/izhanizi
 </p>
 
 ---
