@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>Crafting clean code & learning every day</h2>
-  <p>Frontend-focused developer who enjoys building performant, accessible, and beautiful web experiences.</p>
+  <p>Full Stack-focused developer who enjoys building performant, accessible, and beautiful web experiences.</p>
 </div>
 
 ---
