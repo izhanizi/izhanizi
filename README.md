@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi, I'm Muhammad Izhan 👋</h1>
-  <p><em>Crafting clean, modern web experiences — frontend-focused with backend know-how.</em></p>
+  <p><em>Crafting clean, modern web experiences — Full Stack Developer.</em></p>
 </div>
 
 ---
