@@ -3,7 +3,7 @@
 </picture>
 
 <div align="center">
-  <h1>Hi, I'm izhanizi 👋</h1>
+  <h1>Hi, I'm Muhammad Izhan 👋</h1>
   <p><em>Crafting clean, modern web experiences — frontend-focused with backend know-how.</em></p>
 </div>
 
