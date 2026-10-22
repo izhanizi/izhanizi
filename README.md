@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/GitHub-izhanizi-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=izhanizi&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/izhanizi?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
