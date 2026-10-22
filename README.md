@@ -81,8 +81,8 @@ I am a passionate Full Stack Developer focused on building responsive interfaces
   <a href="https://github.com/izhanizi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@izhanizi-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:muhammadizhan.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:izhanizi9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-izhanizi9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
