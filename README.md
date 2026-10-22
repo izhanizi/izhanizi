@@ -44,9 +44,4 @@ I build user-friendly interfaces and reliable backends. I enjoy learning new too
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izhanizi&show_icons=true&theme=radical" alt="izhanizi's GitHub stats" />
-</p>
 
-<!-- If you want the contact badges exactly like the Bucksmon example (Discord/YouTube/StackOverflow/Codepen), provide your handles and I will add them. -->
