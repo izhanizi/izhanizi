@@ -3,10 +3,10 @@
 </picture>
 
 <div align="center">
-  <h1>hi, i'm muhammad izhan 👋</h1>
-  <h3>full stack developer</h3>
+  <h1>Hi, I'm Muhammad Izhan 👋</h1>
+  <h3>Full Stack Developer</h3>
   <p>
-    <em>crafting elegant digital experiences with clean code, reliable backend systems, and user-first thinking.</em>
+    <em>Crafting elegant digital experiences with clean code, reliable backend systems, and user-first thinking.</em>
   </p>
 </div>
 
@@ -19,19 +19,19 @@
 
 ---
 
-## 👤 about me
+## 👤 About Me
 
-i am a passionate full stack developer focused on building responsive interfaces and robust backend solutions. i enjoy turning ideas into maintainable products, improving developer experience, and learning new tools that help teams build faster and smarter.
+I am a passionate Full Stack Developer focused on building responsive interfaces and robust backend solutions. I enjoy turning ideas into maintainable products, improving developer experience, and learning new tools that help teams build faster and smarter.
 
-- 💡 interested in clean ui/ux and scalable architecture
-- 🧩 comfortable working across frontend and backend
-- 🚀 always learning modern web technologies and best practices
-- 🤝 open to collaboration, side projects, and meaningful opportunities
-- 🧠 also exploring c++ for performance-focused problem solving and systems thinking
+- 💡 Interested in clean UI/UX and scalable architecture
+- 🧩 Comfortable working across frontend and backend
+- 🚀 Always learning modern web technologies and best practices
+- 🤝 Open to collaboration, side projects, and meaningful opportunities
+- 🧠 Also exploring C++ for performance-focused problem solving and systems thinking
 
 ---
 
-## 🛠️ tech stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
@@ -45,37 +45,37 @@ i am a passionate full stack developer focused on building responsive interfaces
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
 </p>
 
-### core strengths
+### Core Strengths
 
-- frontend development with html, css, javascript
-- backend development with node.js and apis
-- database design and integration with mysql and mongodb
-- c++ and problem-solving for efficient, logic-driven applications
-- version control and collaborative workflows using git/github
-- building user-friendly, performance-aware web applications
-
----
-
-## 💼 portfolio focus
-
-- building practical, full-stack web applications
-- exploring c++ for algorithmic thinking and performance-oriented development
-- improving software design, logic, and maintainability
-- creating projects that balance usability, speed, and clean architecture
+- Frontend development with HTML, CSS, and JavaScript
+- Backend development with Node.js and APIs
+- Database design and integration with MySQL and MongoDB
+- C++ and problem-solving for efficient, logic-driven applications
+- Version control and collaborative workflows using Git/GitHub
+- Building user-friendly, performance-aware web applications
 
 ---
 
-## 🚀 current focus
+## 💼 Portfolio Focus
 
-- building polished, responsive full-stack projects
-- improving problem-solving and software design skills
-- exploring modern tools and development workflows
-- deepening my c++ understanding for performance and algorithmic solutions
-- creating solutions that are practical, maintainable, and impactful
+- Building practical, full-stack web applications
+- Exploring C++ for algorithmic thinking and performance-oriented development
+- Improving software design, logic, and maintainability
+- Creating projects that balance usability, speed, and clean architecture
 
 ---
 
-## 🔗 connect with me
+## 🚀 Current Focus
+
+- Building polished, responsive full-stack projects
+- Improving problem-solving and software design skills
+- Exploring modern tools and development workflows
+- Deepening my C++ understanding for performance and algorithmic solutions
+- Creating solutions that are practical, maintainable, and impactful
+
+---
+
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://github.com/izhanizi" target="_blank">
@@ -86,10 +86,10 @@ i am a passionate full stack developer focused on building responsive interfaces
   </a>
 </p>
 
-> “code is not just about solving problems — it is about creating experiences that people enjoy using.”
+> “Code is not just about solving problems — it is about creating experiences that people enjoy using.”
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=120&section=footer&text=thanks%20for%20visiting!" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=120&section=footer&text=Thanks%20for%20visiting!" alt="footer" />
 </p>
