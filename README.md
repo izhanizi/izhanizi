@@ -3,7 +3,8 @@
 </picture>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muhammad+Izhan+👋;Full+Stack+Developer;Building+clean.+modern.+scalable+web+apps" alt="Typing SVG" />
+  <h1>Hi, I'm Muhammad Izhan 👋</h1>
+  <h3>Full Stack Developer</h3>
   <p>
     <em>Crafting elegant digital experiences with clean code, reliable backend systems, and user-first thinking.</em>
   </p>
