@@ -78,13 +78,6 @@ I am a Full Stack Developer focused on building responsive interfaces and reliab
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izhanizi&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izhanizi&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
----
-
 > “Clean code, strong systems, and thoughtful design are what turn ideas into lasting products.”
 
 <p align="center">
