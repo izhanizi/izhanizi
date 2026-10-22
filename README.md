@@ -6,7 +6,7 @@
   <h1>Hi, I'm Muhammad Izhan 👋</h1>
   <h3>Full Stack Developer</h3>
   <p>
-    <em>Building thoughtful products, reliable systems, and user-centered digital experiences.</em>
+    <em>Building thoughtful products, reliable systems, and polished digital experiences.</em>
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 
 ## 👤 About Me
 
-I am a Full Stack Developer focused on building fast, clean, and scalable web experiences. I enjoy turning ideas into polished products, improving developer workflows, and solving real-world problems with practical software.
+I am a Full Stack Developer focused on building responsive interfaces and reliable backend systems. I enjoy turning ideas into maintainable products, improving developer experience, and solving real-world problems with clean, practical software.
 
 - 💡 Interested in modern UI/UX and scalable architecture
 - 🧩 Comfortable across frontend and backend development
@@ -53,7 +53,7 @@ I am a Full Stack Developer focused on building fast, clean, and scalable web ex
 - Frontend development with HTML, CSS, and JavaScript
 - Backend development with Node.js and REST APIs
 - Database design and integration with MySQL and MongoDB
-- C++ for performance-minded problem solving and logic-driven development
+- C++ for logic-driven, performance-minded problem solving
 - Git/GitHub workflows and clean collaborative coding practices
 - Building user-friendly, maintainable, and scalable products
 
