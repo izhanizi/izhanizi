@@ -27,6 +27,7 @@ I am a passionate Full Stack Developer focused on building responsive interfaces
 - 🧩 Comfortable working across frontend and backend
 - 🚀 Always learning modern web technologies and best practices
 - 🤝 Open to collaboration, side projects, and meaningful opportunities
+- 🧠 Also exploring C++ for performance-focused problem solving and systems thinking
 
 ---
 
@@ -49,8 +50,18 @@ I am a passionate Full Stack Developer focused on building responsive interfaces
 - Frontend development with HTML, CSS, JavaScript
 - Backend development with Node.js and APIs
 - Database design and integration with MySQL and MongoDB
+- C++ and problem-solving for efficient, logic-driven applications
 - Version control and collaborative workflows using Git/GitHub
 - Building user-friendly, performance-aware web applications
+
+---
+
+## 💼 Portfolio Focus
+
+- Building practical, full-stack web applications
+- Exploring C++ for algorithmic thinking and performance-oriented development
+- Improving software design, logic, and maintainability
+- Creating projects that balance usability, speed, and clean architecture
 
 ---
 
@@ -72,6 +83,7 @@ I am a passionate Full Stack Developer focused on building responsive interfaces
 - Building polished, responsive full-stack projects
 - Improving problem-solving and software design skills
 - Exploring modern tools and development workflows
+- Deepening my C++ understanding for performance and algorithmic solutions
 - Creating solutions that are practical, maintainable, and impactful
 
 ---
